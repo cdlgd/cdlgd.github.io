@@ -1,164 +1,139 @@
 <!DOCTYPE html>
 <html lang="ko">
 <head>
-  <meta charset="UTF-8" />
-  <title>GD Difficulty List</title>
-  <style>
-    body {
-      margin: 0;
-      font-family: Arial, Helvetica, sans-serif;
-      background-color: #0d0d0d;
-      color: #eee;
-    }
+    <meta charset="UTF-8">
+    <title>Cellutic Demon List</title>
+    <style>
+        body {
+            margin: 0;
+            background-color: #0e0e0e;
+            color: #ffffff;
+            font-family: Arial, Helvetica, sans-serif;
+        }
 
-    header {
-      background: #111;
-      padding: 20px;
-      text-align: center;
-      border-bottom: 2px solid #222;
-    }
+        header {
+            text-align: center;
+            padding: 30px 0;
+            font-size: 36px;
+            font-weight: bold;
+            border-bottom: 2px solid #222;
+        }
 
-    header h1 {
-      margin: 0;
-      color: #ff4444;
-    }
+        .list {
+            max-width: 1000px;
+            margin: 30px auto;
+            padding: 0 20px;
+        }
 
-    main {
-      max-width: 1100px;
-      margin: 30px auto;
-      padding: 0 20px;
-    }
+        .entry {
+            display: flex;
+            align-items: center;
+            background-color: #151515;
+            border: 1px dashed #333;
+            border-radius: 10px;
+            padding: 15px;
+            margin-bottom: 20px;
+            transition: transform 0.15s ease;
+        }
 
-    table {
-      width: 100%;
-      border-collapse: collapse;
-      background: #141414;
-    }
+        .entry:hover {
+            transform: scale(1.01);
+            border-color: #666;
+        }
 
-    th, td {
-      padding: 12px 10px;
-      text-align: center;
-    }
+        .rank {
+            font-size: 28px;
+            font-weight: bold;
+            width: 80px;
+            text-align: center;
+            color: #ff5555;
+        }
 
-    th {
-      background: #1c1c1c;
-      border-bottom: 2px solid #333;
-    }
+        .thumbnail {
+            width: 220px;
+            margin-right: 20px;
+        }
 
-    tr:nth-child(even) {
-      background: #181818;
-    }
+        .thumbnail img {
+            width: 100%;
+            border-radius: 8px;
+        }
 
-    tr:hover {
-      background: #222;
-    }
+        .info {
+            flex: 1;
+        }
 
-    .rank {
-      font-weight: bold;
-      color: #ff5555;
-    }
+        .name {
+            font-size: 24px;
+            font-weight: bold;
+        }
 
-    .extreme {
-      color: #ff4444;
-      font-weight: bold;
-    }
-
-    footer {
-      text-align: center;
-      padding: 20px;
-      color: #666;
-      font-size: 14px;
-    }
-
-    .rank-1 {
-    background-color: #4b1f6f !important; /* 보라색 */
-    }
-
-    .rank-2 {
-    background-color: #1a1424 !important; /* 보랏빛 검은색 */
-    }
-
-    .rank-3 {
-    background-color: #5a1414 !important; /* 붉은색 */
-    }
-  </style>
+        .verifier {
+            margin-top: 6px;
+            font-size: 14px;
+            color: #bbbbbb;
+        }
+    </style>
 </head>
 <body>
 
-<header>
-  <h1>Cellutic Demon List</h1>
-  <p>Geometry Dash's Hardest Level</p>
-</header>
+<header>Cellutic Demon List</header>
 
-<main>
-  <table>
-    <thead>
-      <tr>
-        <th>#</th>
-        <th>Level Name</th>
-        <th>Difficulty</th>
-        <th>Host</th>
-        <th>Verifier</th>
-        <th>Level ID</th>
-      </tr>
-    </thead>
-    <tbody id="levelTable">
-      <!-- JS로 채워짐 -->
-    </tbody>
-  </table>
-</main>
+<div class="list">
 
-<footer>
-  Inspired by pointercrate.com
-</footer>
+    <div class="entry">
+        <div class="rank">#1</div>
+        <div class="thumbnail">
+            <a href="https://www.youtube.com/watch?v=VIDEO_ID_3" target="_blank">
+                <img src="https://img.youtube.com/vi/VIDEO_ID_3/maxresdefault.jpg">
+            </a>
+        </div>
+        <div class="info">
+            <div class="name">Amethyst</div>
+            <div class="verifier">by iMist</div>
+        </div>
+    </div>
 
-<script>
-  const levels = [
-    {
-      name: "Amethyst",
-      difficulty: "Extreme Demon",
-      host: "iMist",
-      verifier: "wPopoff",
-      id: 119550490,
-      rank: 1
-    },
-    {
-      name: "Thinking Space II",
-      difficulty: "Extreme Demon",
-      host: "CairoX",
-      verifier: "Zoink",
-      id: 119544028,
-      rank: 2
-    },
-    {
-      name: "Flamewall",
-      difficulty: "Extreme Demon",
-      host: "Narwall",
-      verifier: "Cuatrocientos",
-      id: 126242564,
-      rank: 3
-    }
-  ];
+    <div class="entry">
+        <div class="rank">#2</div>
+        <div class="thumbnail">
+            <a href="https://www.youtube.com/watch?v=VIDEO_ID_1" target="_blank">
+                <img src="https://img.youtube.com/vi/VIDEO_ID_1/maxresdefault.jpg">
+            </a>
+        </div>
+        <div class="info">
+            <div class="name">Thinking Space II</div>
+            <div class="verifier">by CairoX</div>
+        </div>
+    </div>
 
-  const table = document.getElementById("levelTable");
+    <div class="entry">
+        <div class="rank">#3</div>
+        <div class="thumbnail">
+            <a href="https://www.youtube.com/watch?v=VIDEO_ID_2" target="_blank">
+                <img src="https://img.youtube.com/vi/VIDEO_ID_2/maxresdefault.jpg">
+            </a>
+        </div>
+        <div class="info">
+            <div class="name">Flamewall</div>
+            <div class="verifier">by Narwall</div>
+        </div>
+    </div>
 
-  levels
-    .sort((a, b) => a.rank - b.rank)
-    .forEach(level => {
-      const row = document.createElement("tr");
+    <div class="entry">
+        <div class="rank">#4</div>
+        <div class="thumbnail">
+            <a href="https://www.youtube.com/watch?v=VIDEO_ID_4" target="_blank">
+                <img src="https://img.youtube.com/vi/VIDEO_ID_4/maxresdefault.jpg">
+            </a>
+        </div>
+        <div class="info">
+            <div class="name">Tidal Wave</div>
+            <div class="verifier">by OniLink</div>
+        </div>
+    </div>
 
-      row.innerHTML = `
-        <td class="rank">#${level.rank}</td>
-        <td>${level.name}</td>
-        <td class="extreme">${level.difficulty}</td>
-        <td>${level.host}</td>
-        <td>${level.verifier}</td>
-        <td>${level.id}</td>
-      `;
-
-      table.appendChild(row);
-    });
-</script>
+</div>
 
 </body>
 </html>
