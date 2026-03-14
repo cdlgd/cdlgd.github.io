@@ -10,7 +10,7 @@ const levels = {
     version: "2.207",
     difficulty: "Extreme Demon",
     rating: "Featured",
-    youtube: "https://www.youtube.com/embed/4lfkzz1VCbA",
+    youtube: "4lfkzz1VCbA",
     bgColor: "#120e1a",
     song: "-Ricochet Love- by Waterflame (ID 233860)",
     description: "An idea that started 5 years ago has now been brought to light. Venture into the depths of the cave to fulfill an ancient legend. Will you be the one to find the Amethyst crystal?"
@@ -26,7 +26,7 @@ const levels = {
     version: "2.207",
     difficulty: "Extreme Demon",
     rating: "Featured",
-    youtube: "https://www.youtube.com/embed/4lfkzz1VCbA",
+    youtube: "4lfkzz1VCbA",
     bgColor: "#120e1a",
     song: "Nuke Powder by MaelouX (ID 489111)",
     description: "An idea that started 5 years ago has now been brought to light. Venture into the depths of the cave to fulfill an ancient legend. Will you be the one to find the Amethyst crystal?"
