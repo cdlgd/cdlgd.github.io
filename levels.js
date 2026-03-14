@@ -1,6 +1,5 @@
 const levels = {
-  {
-    key: "amethyst",
+  amethyst: {
     name: "Amethyst",
     creator: "iMist and more",
     verifier: "wPopoff",
@@ -16,8 +15,7 @@ const levels = {
     song: "-Ricochet Love- by Waterflame (ID 233860)",
     description: "An idea that started 5 years ago has now been brought to light. Venture into the depths of the cave to fulfill an ancient legend. Will you be the one to find the Amethyst crystal?"
   },
-  {
-    key: "thinkingspaceii",
+  thinkingspaceii: {
     name: "Thinking Space II",
     creator: "CairoX and more",
     verifier: "Zoink",
