@@ -66,13 +66,13 @@
 </head>
 <body>
 
-<div id="level-container"></div>
+<div id="level-container" class="container"></div>
 
     <script>
       const params = new URLSearchParams(window.location.search);
       const key = params.get("level");
 
-      const data = levels.find(level => level.key === key);
+      const data = levels[key];
 
       if(data){
         document.body.style.backgroundColor = data.bgColor;
@@ -82,8 +82,8 @@
         <h1>${data.name}</h1>
 
         <iframe width="800" height="450"
-          src="${data.youtube}"
-          frameborder="0" allowfullscreen>
+            src="https://www.youtube.com/embed/${data.youtube}"
+            frameborder="0" allowfullscreen>
         </iframe>
 
         <p><span class="description">${data.description}</span></p>
