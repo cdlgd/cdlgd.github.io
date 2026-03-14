@@ -5,7 +5,7 @@
     <script src="js/levels.js"></script>
 
     <meta charset="UTF-8">
-    <title>Cellutic Demon List</title>
+    <title>All Demon List</title>
     <style>
         body {
             color: white;
@@ -72,12 +72,12 @@
       const params = new URLSearchParams(window.location.search);
       const key = params.get("level");
 
-      const data = levels[key];
+      const data = levels.find(level => level.key === key);
 
       if(data){
         document.body.style.backgroundColor = data.bgColor;
 
-        document.getElementById("level-container").innerHTML = 
+        document.getElementById("level-container").innerHTML = `
 
         <h1>${data.name}</h1>
 
@@ -96,13 +96,10 @@
             <p><span><strong>Difficulty </strong> ${data.difficulty}</span><span><strong>Rating </strong>${data.rating}</span></p>
             <p><span><strong>Song </strong>${data.song}</span></p>
         </div>
-        ;
-
+        `;
       }
 
     </script>
-
-</div>
 
 </body>
 </html>
