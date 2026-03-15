@@ -66,39 +66,49 @@
 </head>
 <body>
 
-<div id="level-container" class="container"></div>
+    <div class="topbar">
 
-    <script>
-      const params = new URLSearchParams(window.location.search);
-      const key = params.get("level");
-
-      const data = levels[key];
-
-      if(data){
-        document.body.style.backgroundColor = data.bgColor;
-
-        document.getElementById("level-container").innerHTML = `
-
-        <h1>${data.name}</h1>
-
-        <iframe width="800" height="450"
-            src="https://www.youtube.com/embed/${data.youtube}"
-            frameborder="0" allowfullscreen>
-        </iframe>
-
-        <p><span class="description">${data.description}</span></p>
-
-        <div class="information">
-            <p><span><strong>Creator </strong> ${data.creator}</span><span><strong>Verifier </strong> ${data.verifier}</span></p>
-            <p><span><strong>ID </strong> ${data.id}</span><span><strong>Password </strong> ${data.password}</span></p>
-            <p><span><strong>Length </strong>${data.length}</span><span><strong>Object Count </strong>${data.object}</span></p>
-            <p><span><strong>Upload Version </strong> ${data.version}</span></p>
-            <p><span><strong>Difficulty </strong> ${data.difficulty}</span><span><strong>Rating </strong>${data.rating}</span></p>
-            <p><span><strong>Song </strong>${data.song}</span></p>
-            <p><span><strong>Trivia </strong>${data.trivia}</span></p>
+        <div class="left">
+            <a href="/">
+                <img src="images/logo.png" class="logo">
+            </a>
         </div>
-        `;
-      }
+
+    </div>
+
+    <div id="level-container" class="container"></div>
+
+        <script>
+              const params = new URLSearchParams(window.location.search);
+              const key = params.get("level");
+
+              const data = levels[key];
+
+              if(data){
+                    document.body.style.backgroundColor = data.bgColor;
+
+                    document.getElementById("level-container").innerHTML = `
+
+                    <h1>${data.name}</h1>
+
+                    <iframe width="800" height="450"
+                        src="https://www.youtube.com/embed/${data.youtube}"
+                        frameborder="0" allowfullscreen>
+                    </iframe>
+
+                    <p><span class="description">${data.description}</span></p>
+
+                    <div class="information">
+                        <p><span><strong>Creator </strong> ${data.creator}</span><span><strong>Verifier </strong> ${data.verifier}</span></p>
+                        <p><span><strong>ID </strong> ${data.id}</span><span><strong>Password </strong> ${data.password}</span></p>
+                        <p><span><strong>Length </strong>${data.length}</span><span><strong>Object Count </strong>${data.object}</span></p>
+                        <p><span><strong>Upload Version </strong> ${data.version}</span></p>
+                        <p><span><strong>Difficulty </strong> ${data.difficulty}</span><span><strong>Rating </strong>${data.rating}</span></p>
+                        <p><span><strong>Song </strong>${data.song}</span></p>
+                        <p><span><strong>Trivia </strong>${data.trivia}</span></p>
+                    </div>
+                    `;
+              }
 
     </script>
 
