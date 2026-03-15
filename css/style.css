@@ -1,0 +1,75 @@
+body{
+    margin:0;
+    font-family:Montserrat;
+    color:white;
+}
+
+.topbar{
+    position:fixed;
+    top:0;
+    left:0;
+    width:100%;
+
+    background:#0e0e0e;
+    border-bottom:1px solid #222;
+
+    padding:15px 20px;
+
+    display:flex;
+    align-items:center;
+
+    z-index:1000;
+}
+
+.left{
+    display:flex;
+    align-items:center;
+    gap:15px;
+}
+
+.logo{
+    height:40px;
+}
+
+.menu-button{
+    cursor:pointer;
+    display:flex;
+    flex-direction:column;
+    gap:5px;
+}
+
+.menu-button div{
+    width:25px;
+    height:3px;
+    background:white;
+}
+
+.side-menu{
+    position:fixed;
+    top:0;
+    left:-250px;
+
+    width:250px;
+    height:100%;
+
+    background:#111;
+    padding-top:80px;
+
+    display:flex;
+    flex-direction:column;
+    gap:20px;
+
+    transition:0.3s;
+
+    z-index:999;
+}
+
+.side-menu a{
+    color:white;
+    text-decoration:none;
+    padding:10px 20px;
+}
+
+.side-menu a:hover{
+    background:#222;
+}
