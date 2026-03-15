@@ -14,7 +14,7 @@ const levels = {
     bgColor: "#120e1a",
     song: "-Ricochet Love- by Waterflame (ID 233860)",
     description: "An idea that started 5 years ago has now been brought to light. Venture into the depths of the cave to fulfill an ancient legend. Will you be the one to find the Amethyst crystal?",
-    trivia: "Current Top 1, Cbf blocker placed"
+    trivia: "Current Top 1, Cbf blocker deleted"
   },
   thinkingspaceii: {
     name: "Thinking Space II",
