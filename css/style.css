@@ -40,6 +40,10 @@ body{
     cursor:pointer;
 }
 
+.discord{
+    cursor:pointer;
+}
+
 .menu-button{
     cursor:pointer;
     display:flex;
