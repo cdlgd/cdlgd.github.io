@@ -36,17 +36,21 @@ body{
     height:50px;
     width:auto;
     margin-left:435px;
-    margin-right:15px;
+    margin-right:400px;
     cursor:pointer;
 }
 
 .discord{
+    padding:8px 14px;
+    border-radius:6px;
+    font-size:14px;
+    color:#111111;
+    transition:0.2s;
     cursor:pointer;
-    transition: transform 0.15s ease;
 }
 
 .discord:hover{
-    background:#cccccc;
+    background:#4752c4;
 }
 
 .menu-button{
