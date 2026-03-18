@@ -1,21 +1,4 @@
 const levels = {
-  amethyst: {
-    name: "Amethyst",
-    creator: "iMist and more",
-    verifier: "wPopoff",
-    id: "119550490",
-    password: "Free Copy",
-    length: "1m 42s",
-    object: "147,177",
-    version: "2.207",
-    difficulty: "Extreme Demon",
-    rating: "Featured",
-    youtube: "4lfkzz1VCbA",
-    bgColor: "#120e1a",
-    song: "-Ricochet Love- by Waterflame (ID 233860)",
-    description: "An idea that started 5 years ago has now been brought to light. Venture into the depths of the cave to fulfill an ancient legend. Will you be the one to find the Amethyst crystal?",
-    trivia: "Current Top 1, Cbf blocker deleted"
-  },
   thinkingspaceii: {
     name: "Thinking Space II",
     creator: "CairoX and more",
@@ -31,7 +14,24 @@ const levels = {
     bgColor: "#2b2330",
     song: "Nuke Powder by MaelouX (ID 489111)",
     description: "A mindscape of pure insanity, most fall to it's brutal nature. Gameplay by CoCy team, Deco hosted by DrCuber, Verified by Zoink. Dedicated to Hideki <3",
-    trivia: "Former Top 1(1 hour(before Amethyst) + 49 days(cbf blocker placed on Amethyst), Cbf blocker deleted"
+    trivia: "Current Top 1(1 hour(before Amethyst) + 49 days(cbf blocker placed on Amethyst) + now), Cbf blocker deleted"
+  },
+  amethyst: {
+    name: "Amethyst",
+    creator: "iMist and more",
+    verifier: "wPopoff",
+    id: "119550490",
+    password: "Free Copy",
+    length: "1m 42s",
+    object: "147,177",
+    version: "2.207",
+    difficulty: "Extreme Demon",
+    rating: "Featured",
+    youtube: "4lfkzz1VCbA",
+    bgColor: "#120e1a",
+    song: "-Ricochet Love- by Waterflame (ID 233860)",
+    description: "An idea that started 5 years ago has now been brought to light. Venture into the depths of the cave to fulfill an ancient legend. Will you be the one to find the Amethyst crystal?",
+    trivia: "Former Top 1(248 days(because of cbf blocker)), Cbf blocker deleted"
   },
   flamewall: {
     name: "Flamewall",
@@ -338,5 +338,39 @@ const levels = {
     song: "dj-nate - Clubstep (ingame song)",
     description: "7 years and you still play me?!",
     trivia: "Lost Top 1(underrated)"
+  },
+  spectre: {
+    name: "Spectre",
+    creator: "xander556 and more",
+    verifier: "PersonHuman42",
+    id: "110815379",
+    password: "Free Copy",
+    length: "2m 44s",
+    object: "298,848",
+    version: "2.206",
+    difficulty: "Extreme Demon",
+    rating: "Epic",
+    youtube: "MzsSLKJrLSI",
+    bgColor: "#b545ff",
+    song: "Creo - In Circles by CreoMusic (ID 786863)",
+    description: "Extreme Demon Megacollab made by 40 amazing creators! Hosted by me. Verified by PersonHuman42 in 106,017 attempts.",
+    trivia: ""
+  },
+  acheron: {
+    name: "Acheron",
+    creator: "ryamu and more",
+    verifier: "Zoink",
+    id: "73667628",
+    password: "Free Copy",
+    length: "1m 6s",
+    object: "47,965",
+    version: "2.11",
+    difficulty: "Extreme Demon",
+    rating: "Featured",
+    youtube: "sBKR6aUorzA",
+    bgColor: "#1b0304",
+    song: "{dj-N} Thermodynamix by dj-Nate (ID 770520)",
+    description: "verified by zoink. \"get ricch or die trying\" -50 cent",
+    trivia: "Former Top 1"
   },
 };
