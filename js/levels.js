@@ -184,7 +184,7 @@ const levels = {
     bgColor: "#253f5b",
     song: "Every End... by Dimrain47 (ID 99477)",
     description: "Never Ending",
-    trivia: ""
+    trivia: "-"
   },
   sakupencirclesunnerfed: {
     name: "Sakupen circles",
@@ -235,7 +235,7 @@ const levels = {
     bgColor: "#220242",
     song: "omnipresent (AIM 2023) by WakerLink (ID 1216127), SR20DET by BIksmiith (NONG)",
     description: "verified by Taiago // playtested by guillexprex52, kywy, fusion425, swiborg, & others // ty to Xanify, Nemo, Grid, Triplash, Blayne, and more!",
-    trivia: ""
+    trivia: "-"
   },
   subsumingvortex: {
     name: "Subsuming Vortex",
@@ -269,7 +269,7 @@ const levels = {
     bgColor: "#42022c",
     song: "I Cant Fix You feat. Crusher-P by TheLivingTombstone (ID 717444)",
     description: "After 9 long years, The Dedication Series finally comes to a close. Dedicated to everyone who has supported me along the way. Verified by Whizkid05.",
-    trivia: ""
+    trivia: "-"
   },
   avernus: {
     name: "Avernus",
@@ -354,7 +354,7 @@ const levels = {
     bgColor: "#b545ff",
     song: "Creo - In Circles by CreoMusic (ID 786863)",
     description: "Extreme Demon Megacollab made by 40 amazing creators! Hosted by me. Verified by PersonHuman42 in 106,017 attempts.",
-    trivia: ""
+    trivia: "-"
   },
   acheron: {
     name: "Acheron",
@@ -372,5 +372,56 @@ const levels = {
     song: "{dj-N} Thermodynamix by dj-Nate (ID 770520)",
     description: "verified by zoink. \"get ricch or die trying\" -50 cent",
     trivia: "Former Top 1"
+  },
+  menace: {
+    name: "Menace",
+    creator: "Arraegen",
+    verifier: "Whizkid05",
+    id: "107805281",
+    password: "Free Copy",
+    length: "3m 4s",
+    object: "77,620",
+    version: "2.206",
+    difficulty: "Extreme Demon",
+    rating: "Epic",
+    youtube: "nnkgghxxsEE",
+    bgColor: "#d5ad00",
+    song: "Menace by TheRealMannyHeffley (ID 1304920)",
+    description: "\"The only truth in this world is that there is no truth.\" Verified by Whizkid. Level and song by me.",
+    trivia: "Solo level(Song, Layout, Design)"
+  },
+  abyssofdarkness: {
+    name: "Abyss of Darkness",
+    creator: "Exen and more",
+    verifier: "Cursed",
+    id: "49896559",
+    password: "030422",
+    length: "2m 5s",
+    object: "113,276",
+    version: "2.11",
+    difficulty: "Extreme Demon",
+    rating: "-",
+    youtube: "ejJkpqcMMCY",
+    bgColor: "#3d0d0d",
+    song: "Death Note Dubstep [SB] by ShadowBeatzInc (ID 513539)",
+    description: "-",
+    trivia: "Former Top 1"
+  },
+  swislithium: {
+    name: "SWI Slithium",
+    creator: "Hipo and more(Slithium)",
+    verifier: "Hipo",
+    id: "129774598",
+    password: "Free Copy",
+    length: "2m 3s",
+    object: "45,311",
+    version: "2.207",
+    difficulty: "Insane",
+    rating: "Unrated",
+    youtube: "ejJkpqcMMCY",
+    bgColor: "#000080",
+    song: "F-777 - Sonic Blaster by F-777 (ID 574484)",
+    description: "Slithium's version of Sonic Wave Infinity, cancelled due to Xanii's verification. Verified by Hipo (me, not credited in the endscreen to stay faithful to the original copy).",
+    trivia: "Buffed version(old impossible) of Sonic Wave Infinity"
   },
 };
