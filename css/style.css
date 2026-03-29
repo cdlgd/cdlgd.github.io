@@ -130,7 +130,7 @@ body{
     background:#222;
 }
 
-@media (max-width:1400px){
+@media (max-width:1500px){
     .center{
         position:static;
         transform:none;
@@ -149,7 +149,7 @@ body{
     }
 }
 
-@media (max-width:700px){
+@media (max-width:1000px){
     .center{
         position:static;
         transform:none;
