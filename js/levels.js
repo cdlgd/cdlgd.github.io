@@ -492,23 +492,6 @@ const levels = {
     description: "This is Crazy.",
     trivia: "Solo level(layout, design, verify)"
   },
-  voltage: {
-    name: "Voltage",
-    creator: "ThePurgatory",
-    verifier: "maybee",
-    id: "131599104",
-    password: "Free Copy",
-    length: "1m 8s",
-    object: "65,757",
-    version: "2.207",
-    difficulty: "Extreme Demon",
-    rating: "Featured",
-    youtube: "wBRvBN9tmlc",
-    bgColor: "#593606",
-    song: "{dj-N} Call the PoPo! by dj-Nate (ID 485224)",
-    description: "Electricity, electrify, zaaap, electrons | Hosted by Phantom7Ks | Verified by Maybee | Gameplay by Lagnugg | 16-01-26 | #ThePurgatorySupremacy",
-    trivia: "-"
-  },
   oldaod: {
     name: "Old AoD",
     creator: "Exen and more",
@@ -525,6 +508,23 @@ const levels = {
     song: "Death Note Dubstep [SB] by ShadowBeatzInc (ID 513539)",
     description: "-",
     trivia: "Old version of Abyss of Darkness"
+  },
+  voltage: {
+    name: "Voltage",
+    creator: "ThePurgatory",
+    verifier: "maybee",
+    id: "131599104",
+    password: "Free Copy",
+    length: "1m 8s",
+    object: "65,757",
+    version: "2.207",
+    difficulty: "Extreme Demon",
+    rating: "Featured",
+    youtube: "wBRvBN9tmlc",
+    bgColor: "#593606",
+    song: "{dj-N} Call the PoPo! by dj-Nate (ID 485224)",
+    description: "Electricity, electrify, zaaap, electrons | Hosted by Phantom7Ks | Verified by Maybee | Gameplay by Lagnugg | 16-01-26 | #ThePurgatorySupremacy",
+    trivia: "-"
   },
   thinkingspaceiiog: {
     name: "Thinking Space II",
