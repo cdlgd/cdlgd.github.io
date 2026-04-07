@@ -760,7 +760,7 @@ const levels = {
     rating: "Featured",
     youtube: "DROMiCc2ZRM",
     bgColor: "#cc0542",
-    song: "Xy76 by Camellia (ID 10007183(library)",
+    song: "Xy76 by Camellia (ID 10007183(library))",
     description: "Cold? Coolness? Chilly? Glacial? Nippy? Cool? Icy? Frosty? Chillax? Wintry? Freezing? Brisk? Chillness? Artic? Sharp? Chil whitout the L? Yeah",
     trivia: "Solo level(Layout, Design, Verify)"
   },
