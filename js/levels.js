@@ -764,4 +764,21 @@ const levels = {
     description: "Cold? Coolness? Chilly? Glacial? Nippy? Cool? Icy? Frosty? Chillax? Wintry? Freezing? Brisk? Chillness? Artic? Sharp? Chil whitout the L? Yeah",
     trivia: "Solo level(Layout, Design, Verify)"
   },
+  silentpoltergeist: {
+    name: "Silent poltergeist",
+    creator: "TheRealSailent and more",
+    verifier: "Whizkid05",
+    id: "13586257",
+    password: "Copy Disabled",
+    length: "1m 44s",
+    object: "18,886",
+    version: "2.0",
+    difficulty: "Insane",
+    rating: "Unrated",
+    youtube: "XQ_TZc7cnPs",
+    bgColor: "#222222",
+    song: "NK - Poltergeist (OLD mix) by Rukkus (ID 587870)",
+    description: "Collab with MaxPower GD and Nautilus2K. Fixed 2.1 version.",
+    trivia: "Old impossible level(spam)"
+  },
 };
