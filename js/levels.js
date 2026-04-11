@@ -830,6 +830,6 @@ const levels = {
     bgColor: "#421c02",
     song: "Iron God: Sakupen Hell Yes RMX by mr-jazzman (ID 360804)",
     description: "By Nick24, DrCuber, korewa, Muffy450, Renn241, endevvor, Mzero, NineDice, GhostVandalf. Dedicated to Cursed",
-    trivia: "Former Top 1, Old impossible level(decorated and a bit nerfed"
+    trivia: "Former Top 1, Old impossible level(decorated and a bit nerfed)"
   },
 };
