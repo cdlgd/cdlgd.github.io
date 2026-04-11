@@ -793,9 +793,26 @@ const levels = {
     difficulty: "Insane",
     rating: "Unrated",
     youtube: "ZcdiTGuIJ1k",
-    bgColor: "#222222",
+    bgColor: "#222221",
     song: "Time Machine by Waterflame (ingame song)",
     description: "Theoretical version of Element 111 Rg by DarkX. Created and restored by Restoration Union.",
     trivia: "Old impossible level"
+  },
+  wockycircles: {
+    name: "wocky circles",
+    creator: "kywy",
+    verifier: "ROZE",
+    id: "100420930",
+    password: "Free Copy",
+    length: "1m 5s",
+    object: "10,607",
+    version: "2.205",
+    difficulty: "Insane",
+    rating: "Unrated",
+    youtube: "yOx5Q3BkWIg",
+    bgColor: "#020242",
+    song: "Dr.Phonics - Firepower by DrPhonics (ID 490203)",
+    description: "poland",
+    trivia: "Sakupen Circles theme level"
   },
 };
