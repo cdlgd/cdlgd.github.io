@@ -67,6 +67,23 @@ const levels = {
     description: "Drown them",
     trivia: "Former Top 1(162 days(Unrated) + 472 days(before Thinking Space II)"
   },
+  oldorochi: {
+    name: "Old Orochi",
+    creator: "Platnuu",
+    verifier: "SeptaGon7",
+    id: "136742562",
+    password: "Free Copy",
+    length: "1m 34s",
+    object: "71,821",
+    version: "2.208",
+    difficulty: "Insane",
+    rating: "Unrated",
+    youtube: "YxtFAQtLYQY",
+    bgColor: "#6e0102",
+    song: "Yomi yori Kikoyu Koukoku no Hi to Honoo no Shoujo by Monumia (ID 1389624), 黄泉より聴こゆ、皇国の燈と焔の少女。by Imperial Circus Dead Decadence (NONG)",
+    description: "Verified by SeptaGon7",
+    trivia: "Former impossible level, Current Top 1 of Unrated level"
+  },
   orbit: {
     name: "ORBIT",
     creator: "MindCap and more",
@@ -99,7 +116,7 @@ const levels = {
     bgColor: "#054541",
     song: "Electroman Adventures by Waterflame (ingame song)",
     description: "GOOD LUCK",
-    trivia: "Original version of SARY NEVER CLEAR, Current Top 1 of Unrated level"
+    trivia: "Original version of SARY NEVER CLEAR, Former Top 1 of Unrated level"
   },
   nullscapes: {
     name: "Nullscapes",
