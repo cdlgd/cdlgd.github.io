@@ -795,7 +795,7 @@ const levels = {
     youtube: "DROMiCc2ZRM",
     bgColor: "#99003e",
     song: "Xy76 by Camellia (ID 10007183(library))",
-    description: "Cold? Coolness? Chilly? Glacial? Nippy? Cool? Icy? Frosty? Chillax? Wintry? Freezing? Brisk? Chillness? Artic? Sharp? Chil whitout the L? Yeah",
+    description: "Cold? Coolness? Chilly? Glacial? Nippy? Cool? Icy? Frosty? Chillax? Wintry? Freezing? Brisk? Chillness? Artic? Sharp? Chil without the L? Yeah",
     trivia: "Solo level(Layout, Design, Verify)"
   },
   silentpoltergeist: {
