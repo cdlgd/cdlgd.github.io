@@ -29,10 +29,6 @@
             margin: auto;
             margin-top: 70px;
             text-align: center;
-
-            background: rgba(0, 0, 0, 0.6);
-            padding: 30px;
-            border-radius: 16px;
             
             border: 1px solid rgba(255, 255, 255, 0.15);
             
@@ -42,15 +38,14 @@
             box-shadow: 0 0 30px rgba(0,0,0,0.5);
         }
 
-        h1 {
-            margin-top: 70px;
-            font-size: 50px;
+        .card-inner {
+            background: rgba(0, 0, 0, 0.85);
+            padding: 30px;
+            border-radius: 16px;
         }
 
-        .back {
-            margin-top: 70px;
-            margin-bottom: 20px;
-            display: inline-block;
+        h1 {
+            font-size: 50px;
         }
 
         .description {
@@ -106,14 +101,14 @@
     </div>
 
     <div id="level-container" class="container"></div>
+        <div class="card-inner">
+            <script>
+                const params = new URLSearchParams(window.location.search);
+                const key = params.get("level");
 
-        <script>
-              const params = new URLSearchParams(window.location.search);
-              const key = params.get("level");
+                const data = levels[key];
 
-              const data = levels[key];
-
-              if(data){
+                if(data){
                     document.body.style.backgroundColor = data.bgColor;
 
                     document.getElementById("level-container").innerHTML = `
@@ -137,11 +132,10 @@
                         <p><span><strong>Trivia </strong>${data.trivia}</span></p>
                     </div>
                     `;
-              }
+                }
 
-    </script>
-
-    <a class="back" href="/">← back to main page</a>
+            </script>
+        </div>
 
 </body>
 </html>
