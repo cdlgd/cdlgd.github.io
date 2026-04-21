@@ -29,6 +29,10 @@
             margin: auto;
             margin-top: 70px;
             text-align: center;
+
+            background: rgba(0, 0, 0, 0.6);
+            padding: 30px;
+            border-radius: 16px;
             
             border: 1px solid rgba(255, 255, 255, 0.15);
             
@@ -38,14 +42,15 @@
             box-shadow: 0 0 30px rgba(0,0,0,0.5);
         }
 
-        .card-inner {
-            background: rgba(0, 0, 0, 0.85);
-            padding: 30px;
-            border-radius: 16px;
+        h1 {
+            margin-top: 70px;
+            font-size: 50px;
         }
 
-        h1 {
-            font-size: 50px;
+        .back {
+            margin-top: 70px;
+            margin-bottom: 20px;
+            display: inline-block;
         }
 
         .description {
@@ -101,41 +106,40 @@
     </div>
 
     <div id="level-container" class="container"></div>
-        <div class="card-inner">
-            <script>
-                const params = new URLSearchParams(window.location.search);
-                const key = params.get("level");
 
-                const data = levels[key];
+    <script>
+        const params = new URLSearchParams(window.location.search);
+        const key = params.get("level");
 
-                if(data){
-                    document.body.style.backgroundColor = data.bgColor;
+        const data = levels[key];
 
-                    document.getElementById("level-container").innerHTML = `
+        if(data){
+            document.body.style.backgroundColor = data.bgColor;
 
-                    <h1>${data.name}</h1>
+            document.getElementById("level-container").innerHTML = `
 
-                    <iframe width="800" height="450"
-                        src="https://www.youtube.com/embed/${data.youtube}"
-                        frameborder="0" allowfullscreen>
-                    </iframe>
+            <h1>${data.name}</h1>
 
-                    <p><span class="description">${data.description}</span></p>
+            <iframe width="800" height="450"
+                src="https://www.youtube.com/embed/${data.youtube}"
+                frameborder="0" allowfullscreen>
+            </iframe>
 
-                    <div class="information">
-                        <p><span><strong>Creator </strong> ${data.creator}</span><span><strong>Verifier </strong> ${data.verifier}</span></p>
-                        <p><span><strong>ID </strong> ${data.id}</span><span><strong>Password </strong> ${data.password}</span></p>
-                        <p><span><strong>Length </strong>${data.length}</span><span><strong>Object Count </strong>${data.object}</span></p>
-                        <p><span><strong>Upload Version </strong> ${data.version}</span></p>
-                        <p><span><strong>Difficulty </strong> ${data.difficulty}</span><span><strong>Rating </strong>${data.rating}</span></p>
-                        <p><span><strong>Song </strong>${data.song}</span></p>
-                        <p><span><strong>Trivia </strong>${data.trivia}</span></p>
-                    </div>
-                    `;
-                }
+            <p><span class="description">${data.description}</span></p>
 
-            </script>
-        </div>
+            <div class="information">
+                <p><span><strong>Creator </strong> ${data.creator}</span><span><strong>Verifier </strong> ${data.verifier}</span></p>
+                <p><span><strong>ID </strong> ${data.id}</span><span><strong>Password </strong> ${data.password}</span></p>
+                <p><span><strong>Length </strong>${data.length}</span><span><strong>Object Count </strong>${data.object}</span></p>
+                <p><span><strong>Upload Version </strong> ${data.version}</span></p>
+                <p><span><strong>Difficulty </strong> ${data.difficulty}</span><span><strong>Rating </strong>${data.rating}</span></p>
+                <p><span><strong>Song </strong>${data.song}</span></p>
+                <p><span><strong>Trivia </strong>${data.trivia}</span></p>
+            </div>
+            `;
+        }
+
+    </script>
 
 </body>
 </html>
