@@ -96,7 +96,7 @@ const levels = {
     difficulty: "Extreme Demon",
     rating: "Mythic",
     youtube: "QKcv8DkNPd0",
-    bgColor: "#42022c",
+    bgColor: "#150957",
     song: "Animation Warrior Theme by NightHawk22 (ID 80273)",
     description: "O",
     trivia: "First Mythic rated Extreme Demon"
