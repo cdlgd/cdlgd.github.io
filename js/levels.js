@@ -1,7 +1,8 @@
 const levels = {
   thinkingspaceii: {
     name: "Thinking Space II",
-    creator: "CairoX and more",
+    publisher: "CairoX and more",
+    creator: "DrCuber(host), CairoX(host\, publisher), NineDice (co-host), Jawis, korewa, Rin04, galofuf, HaydenDom, ADrone, V453C70M14, UFokinWotM8, RealVet, Hyperbola, NcaT, Crowlley, KugelBlitZ, Meox, Maxmur, TriForce, GamerKnight750, Meatius, DiamondSkull, ThunderDarkness",
     verifier: "Zoink",
     id: "119544028",
     password: "Free Copy",
@@ -18,7 +19,8 @@ const levels = {
   },
   amethyst: {
     name: "Amethyst",
-    creator: "iMist and more",
+    publisher: "iMist and more",
+    creator: "iMist(host), IvashkaUA, NoobyPro27, iMinAY, BeClaNin0, titoalper, roselyne, ItsxEcho, GamerKnight750, Uriun112, 3DADronX, SnomGMD, Bedrock",
     verifier: "wPopoff",
     id: "119550490",
     password: "Free Copy",
@@ -35,7 +37,8 @@ const levels = {
   },
   flamewall: {
     name: "Flamewall",
-    creator: "Narwall and more",
+    publisher: "Narwall and more",
+    creator: "Narwall(host\, publisher), Valentine(host), Skub(host), Surjaco(host), TheWorldOfMe, Hexeract, Teraaa, Bluestone, Ked, Dola, Finley, Waturn, Rpgraketti, Laser, Intensa, Thezinkyt, Detrezo, Zenn, Zeroxy, Vaen, Technical, Eridani, Temp, Radical, Nicor77, Minishoey, Tombstone, Blueskii, Chee2y, Skzyl, LordVaderCraft, D3ltex, Unerve, Avex, Cipha, Itzmira, Magmeta, Donut, Aelula, Cinny, Zeronium, Artsi, Shman, RicoLP, Gokill, Rainstorm, Cheyne, Baeru, Teno, Skarro, Magilex, Xanii, Dosh7t, Amza, Luksa, Dorvict, Varium, Snowkeo, Mjzpeanut, Afm, Insxne97, Dilwonk, Dubbyball, Giammix, Zrose, Intriz, Humbjumb, Kacurro, Mrzen, Striked, X2k, Awesomeme, Piksc, Xolarzz, Limit2, Freddydash, Solarion, Wolvyy, Zmx, Plolek, Gamerknight750, At424, Snib, Astro, Blasterrobotz, Galaxxyss, Youknowwho, Graded, Molds, Latezk, Functionxd, Slayerz, Netraena, Lunarity, Copc, Kiba, Vendas, Lieb, Laurendi, Dreamtide, Ryli06, Revv, Zafkiel7, Xe_nith, Dlapplegamez, Thejosiahturner, Vismuth, Lris, Moby, Unbipentium, Bookwormjoker, Grenadeoftacos, Etheriall, Echo, Owen, Alis7, Saziur, Nebunyx, Renn241",
     verifier: "Cuatrocientos",
     id: "126242564",
     password: "Free Copy",
@@ -52,6 +55,7 @@ const levels = {
   },
   tidalwave: {
     name: "Tidal Wave",
+    host: "OniLink",
     creator: "OniLink",
     verifier: "Zoink",
     id: "86407629",
