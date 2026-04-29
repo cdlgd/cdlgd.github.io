@@ -89,6 +89,7 @@
         
         .creator {
             position: absolute;
+            display: block;
             bottom: -40px;
             left: 50%;
             transform: translateX(-50%);
@@ -162,7 +163,7 @@
                 <p><span class="description">${data.description}</span></p>
 
                 <div class="information">
-                    <p><span class="host"><strong>Creator </strong> ${data.publisher}<div class="creator">${data.creator}</div></span><span><strong>Verifier </strong> ${data.verifier}</span></p>
+                    <p><span class="host"><strong>Creator </strong> ${data.publisher}<span class="creator">${data.creator}</span></span><span><strong>Verifier </strong> ${data.verifier}</span></p>
                     <p><span><strong>ID </strong> ${data.id}</span><span><strong>Password </strong> ${data.password}</span></p>
                     <p><span><strong>Length </strong>${data.length}</span><span><strong>Object Count </strong>${data.object}</span></p>
                     <p><span><strong>Upload Version </strong> ${data.version}</span></p>
