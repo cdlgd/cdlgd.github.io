@@ -390,6 +390,23 @@ const levels = {
     description: "Extreme Demon Megacollab made by 40 amazing creators! Hosted by me. Verified by PersonHuman42 in 106,017 attempts.",
     trivia: "-"
   },
+  lesopowal: {
+    name: "Lesopowal",
+    creator: "cherryteam",
+    verifier: "Bacon",
+    id: "137886942",
+    password: "Free Copy",
+    length: "1m 39s",
+    object: "111,527",
+    version: "2.208",
+    difficulty: "Insane",
+    rating: "Unrated",
+    youtube: "RTXnFHkGO_g",
+    bgColor: "#574f3e",
+    song: "Rising Sun by NemesisTheory (ID 480220)",
+    description: "Verified by Bacon // Hosted by LvlByNoobs",
+    trivia: "-"
+  },
   acheron: {
     name: "Acheron",
     creator: "ryamu and more",
