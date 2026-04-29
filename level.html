@@ -90,7 +90,7 @@
         .creator {
             position: absolute;
             display: block;
-            top: -40px;
+            bottom: -40px;
             left: 50%;
             transform: translateX(-50%);
         
@@ -146,21 +146,15 @@
         const data = levels[key];
 
         function formatCreators(str){
-            const list = str.split(",").map(v => v.trim());
+            const list = str.split(",").map(v => v.trim()).filter(v => v.length);
         
-            let result = "";
+            const lines = [];
         
-            for(let i = 0; i < list.length; i++){
-                result += list[i];
-        
-                if((i + 1) % 5 === 0){
-                    result += "<br>";
-                } else if(i !== list.length - 1){
-                    result += ", ";
-                }
+            for(let i = 0; i < list.length; i += 5){
+                lines.push(list.slice(i, i + 5).join(", "));
             }
         
-            return result;
+            return lines.join("<br>");
         }
 
         if(data){
