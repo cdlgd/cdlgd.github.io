@@ -669,7 +669,7 @@ const levels = {
     name: "Demotivation Dance",
     publisher: "Cursed and more",
     creator: "Cursed(publisher), Nick24(original), Renn241", 
-    verifier: "DiamondSplash",
+    verifier: "Cursed",
     id: "90526490",
     password: "Free Copy",
     length: "49s",
@@ -701,7 +701,7 @@ const levels = {
   },
   iiishonpointercrate: {
     name: "3SH on Pointercrate",
-    publisher: "tahabht(UFokinWotM8)",
+    publisher: "tahabht and UFokinWotM8",
     creator: "tahabht(publisher), UFokinWotM8(original)",
     verifier: "VovanPo",
     id: "127534241",
@@ -712,7 +712,6 @@ const levels = {
     difficulty: "Insane(Challenge)",
     rating: "Unrated",
     youtube: "oY-rlZxhLUM",
-    bgColor: "#42022c",
     song: "---Fury--- by Acid-Notation (ID 529291)",
     description: "\"omw to buy 3kg of bread at the 3shop joot\" verified by VovanPo",
     trivia: "-"
@@ -730,7 +729,6 @@ const levels = {
     difficulty: "Insane(Challenge)",
     rating: "Unrated",
     youtube: "ewlMbTR-c_w",
-    bgColor: "#483a05",
     song: "-Stalker- by Waterflame (ID 620959)",
     description: "Verified by Yossarian",
     trivia: "Former hardest challenge"
@@ -748,7 +746,6 @@ const levels = {
     difficulty: "Harder",
     rating: "Unrated",
     youtube: "7Plzij-GNw4",
-    bgColor: "#421c02",
     song: "Iron God: Sakupen Hell Yes RMX by mr-jazzman (ID 360804)",
     description: "-",
     trivia: "Current Top 1 of Denouement level"
@@ -766,7 +763,6 @@ const levels = {
     difficulty: "Extreme Demon",
     rating: "-",
     youtube: "kpcF1-QAHQc",
-    bgColor: "#351112",
     song: "Tennobyte - Fly Away by Tennobyte (ID 945695), Lost by CRIM3S (NONG)",
     description: "THE GATES HAVE OPENED ONCE AGAIN.",
     trivia: "Former Top 1"
@@ -784,14 +780,14 @@ const levels = {
     difficulty: "Insane",
     rating: "Unrated",
     youtube: "3mvddPaNklg",
-    bgColor: "#870c6f",
     song: "Creo - Sphere by CreoMusic (ID 739991)",
     description: "x_x",
     trivia: "Zodiac's unnerfed version"
   },
   kocmoc: {
     name: "KOCMOC",
-    creator: "cherryteam",
+    publisher: "cherryteam",
+    creator: "Vernam(host), Spk, Synd, Vinty, Sauzzeth, Bli, Kivvvi, Xatz, ZDeadlox, Cuaer",
     verifier: "Zoink",
     id: "87665224",
     password: "Free Copy",
@@ -801,7 +797,6 @@ const levels = {
     difficulty: "Extreme Demon",
     rating: "Epic",
     youtube: "2CxE-UWCIG4",
-    bgColor: "#3e015c",
     song: "SLEEPING HUMMINGBIRD LONDON? Albee Remix ? by sawukalu164 (ID 1163222), Космос (∆XIUS LIИK Remix) by Sleeping Hummingbird (NONG)",
     description: "verified by Trick // verified by Zoink",
     trivia: "-"
