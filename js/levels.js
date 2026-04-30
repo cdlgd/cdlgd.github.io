@@ -12,7 +12,6 @@ const levels = {
     difficulty: "Extreme Demon",
     rating: "Featured",
     youtube: "CELNmHwln_c",
-    bgColor: "#2b2330",
     song: "Nuke Powder by MaelouX (ID 489111)",
     description: "A mindscape of pure insanity, most fall to it's brutal nature. Gameplay by CoCy team, Deco hosted by DrCuber, Verified by Zoink. Dedicated to Hideki <3",
     trivia: "Current Top 1(1 hour(before Amethyst) + 49 days(cbf blocker placed on Amethyst) + now), Cbf blocker deleted"
@@ -30,7 +29,6 @@ const levels = {
     difficulty: "Extreme Demon",
     rating: "Featured",
     youtube: "4lfkzz1VCbA",
-    bgColor: "#120e1a",
     song: "-Ricochet Love- by Waterflame (ID 233860)",
     description: "An idea that started 5 years ago has now been brought to light. Venture into the depths of the cave to fulfill an ancient legend. Will you be the one to find the Amethyst crystal?",
     trivia: "Former Top 1(248 days(because of cbf blocker)), Cbf blocker deleted"
@@ -48,7 +46,6 @@ const levels = {
     difficulty: "Extreme Demon",
     rating: "Epic",
     youtube: "x4Io4zkWVRw",
-    bgColor: "#3d2400",
     song: "Flamewall by Camellia (ID 10007151(library)",
     description: "The ultimate endurance test, in the works since 2022. | Verified by Cuatrocientos in 221.703k attempts.",
     trivia: "Cbf blocker deleted"
@@ -66,7 +63,6 @@ const levels = {
     difficulty: "Extreme Demon",
     rating: "-",
     youtube: "9fsZ014qB3s",
-    bgColor: "#003a47",
     song: "Tidal Wave(Shiawase VIP rmx) by RunoNG (ID 1266014), Shiawave(VIP) by Dion Timmer (NONG)",
     description: "Drown them",
     trivia: "Former Top 1(162 days(Unrated) + 472 days(before Thinking Space II)"
@@ -84,7 +80,6 @@ const levels = {
     difficulty: "Insane",
     rating: "Unrated",
     youtube: "YxtFAQtLYQY",
-    bgColor: "#6e0102",
     song: "Yomi yori Kikoyu Koukoku no Hi to Honoo no Shoujo by Monumia (ID 1389624), 黄泉より聴こゆ、皇国の燈と焔の少女。by Imperial Circus Dead Decadence (NONG)",
     description: "Verified by SeptaGon7",
     trivia: "Former impossible level, Current Top 1 of Unrated level"
@@ -102,7 +97,6 @@ const levels = {
     difficulty: "Extreme Demon",
     rating: "Mythic",
     youtube: "QKcv8DkNPd0",
-    bgColor: "#150957",
     song: "Animation Warrior Theme by NightHawk22 (ID 80273)",
     description: "O",
     trivia: "First Mythic rated Extreme Demon"
@@ -120,7 +114,6 @@ const levels = {
     difficulty: "Harder",
     rating: "Unrated",
     youtube: "Hpo77uVq75M",
-    bgColor: "#054541",
     song: "Electroman Adventures by Waterflame (ingame song)",
     description: "GOOD LUCK",
     trivia: "Original version of SARY NEVER CLEAR, Former Top 1 of Unrated level"
@@ -138,7 +131,6 @@ const levels = {
     difficulty: "Extreme Demon",
     rating: "Mythic",
     youtube: "EztneTPp5CU",
-    bgColor: "#454545",
     song: "Creo - Flow by CreoMusic (ID 1132447), Creo - Slow Down by CreoMusic (ID 800646)(intro)",
     description: "GET OUT OF MY HEAD",
     trivia: "Cbf blocker deleted, Hardest one mode level(only robot)"
@@ -156,7 +148,6 @@ const levels = {
     difficulty: "Insane",
     rating: "Unrated",
     youtube: "AdrmZsy52EY",
-    bgColor: "#421c02",
     song: "Iron God: Sakupen Hell Yes RMX by mr-jazzman (ID 360804)",
     description: "Another nine circles level. Hardest nine circles level ever created?",
     trivia: "Original version of Sakupen Circles, former Top 1 of Unrated level"
@@ -174,7 +165,6 @@ const levels = {
     difficulty: "Extreme Demon",
     rating: "-",
     youtube: "j5NC0u1Q91Q",
-    bgColor: "#4d0039",
     song: "Dash by MDK (ingame song), Blast Processing by Waterflame (ingame song)",
     description: "verified by zoink, level by blankb and I",
     trivia: "-"
@@ -192,7 +182,6 @@ const levels = {
     difficulty: "Extreme Demon",
     rating: "Featured",
     youtube: "nVHPFf13M-I",
-    bgColor: "#592500",
     song: "xStep by DJVI (ingame song)",
     description: "Hosted by nxhtrise // Verified by w3rty.",
     trivia: "-"
@@ -210,7 +199,6 @@ const levels = {
     difficulty: "Extreme Demon",
     rating: "Featured",
     youtube: "20fYiqLAo_E",
-    bgColor: "#253522",
     song: "Portal To The Other Side (feat. Hatsune Miku) by nandinanubis (ID 941913)",
     description: "BOOBAWAMBA is equal to {10, 100 [1[1\\1\\12-2] 1 [2\\2-2]2]2} using the array of operator and BEAF it has boobol entries. This is my best level and it has been verified by EastShark",
     trivia: "Hardest memory level"
@@ -228,7 +216,6 @@ const levels = {
     difficulty: "Extreme Demon",
     rating: "-",
     youtube: "AO--mVVFtKI",
-    bgColor: "#253f5b",
     song: "Every End... by Dimrain47 (ID 99477)",
     description: "Never Ending",
     trivia: "-"
@@ -606,7 +593,6 @@ const levels = {
     difficulty: "Insane(Challenge)",
     rating: "Unrated",
     youtube: "Rz7Um6lxYYU",
-    bgColor: "#252126",
     song: "- by - (ID 96), Innocent Days by Hitomi (NONG)",
     description: "\"I said that Geass was the power of the king which would condemn you to a life of solitude. I think maybe that's not quite correct. Right, Lelouch?\"",
     trivia: "Hardest challenge?"
@@ -624,7 +610,6 @@ const levels = {
     difficulty: "Insane(Challenge)",
     rating: "Unrated",
     youtube: "nBmjrlmzUxE",
-    bgColor: "#242222",
     song: "F-777 Dark Dragon Fire by F-777 (ID 91656)",
     description: "-",
     trivia: "Former hardest challenge"
@@ -642,7 +627,6 @@ const levels = {
     difficulty: "Insane",
     rating: "Unrated",
     youtube: "RJedeB2wHCA",
-    bgColor: "#404040",
     song: "Nuke Powder by MaelouX (ID 489111)",
     description: "Made to follow the original creators' project wishes. Original layout hosted by KugelBlitZ. Level hosted by Marcy and Sebi. Verified by Zeronium. Officially recognized by HidekiX",
     trivia: "Legacy version of Thinking Space II"
@@ -660,7 +644,6 @@ const levels = {
     difficulty: "Insane",
     rating: "Unrated",
     youtube: "WHOfO0OxbvM",
-    bgColor: "#400501",
     song: "Clubstep by DJ-Nate (ingame song)",
     description: "NOT the true unnerfed, which is lost. This is the closest version to it that I found, but probably not the hardest existing one.",
     trivia: "Unnerfed version of Diabolic Clubstep"
@@ -678,7 +661,6 @@ const levels = {
     difficulty: "Extreme Demon",
     rating: "Featured",
     youtube: "yQBFyUvB3lY",
-    bgColor: "#630085",
     song: "Base After Base by DJVI (ID 404997)",
     description: "Welcome! This is a top 10 extreme demon with no spikes, no saws, no slopes, no waves, only duals and only 1x speed. Only verified by DiamondSplash aswell! Hope you all beat it too!",
     trivia: "Only dual & 1x speed, no spikes"
@@ -688,18 +670,17 @@ const levels = {
     publisher: "Cursed and more",
     creator: "Cursed(publisher), Nick24(original), Renn241", 
     verifier: "DiamondSplash",
-    id: "110534288",
+    id: "90526490",
     password: "Free Copy",
-    length: "1m 28s",
-    object: "99,072",
-    version: "2.206",
-    difficulty: "Extreme Demon",
-    rating: "Featured",
-    youtube: "yQBFyUvB3lY",
-    bgColor: "#630085",
-    song: "Base After Base by DJVI (ID 404997)",
-    description: "Welcome! This is a top 10 extreme demon with no spikes, no saws, no slopes, no waves, only duals and only 1x speed. Only verified by DiamondSplash aswell! Hope you all beat it too!",
-    trivia: "Only dual & 1x speed, no spikes"
+    length: "49s",
+    object: "44,790",
+    version: "2.11",
+    difficulty: "Insane",
+    rating: "Unrated",
+    youtube: "JlhBdtzL99A",
+    song: "Iron God: Sakupen Hell Yes RMX by mr-jazzman (ID 360804)",
+    description: "One of the hardest things I've ever done.",
+    trivia: "Sakupen Circles drop wave x8"
   },
   forgottenmaiden: {
     name: "Forgotten Maiden",
@@ -714,7 +695,6 @@ const levels = {
     difficulty: "Harder(Challenge)",
     rating: "Unrated",
     youtube: "iulSolHQcw0",
-    bgColor: "#252126",
     song: "- by - (ID 42)",
     description: "The memories erased from a forgotten bunny... Verified by Sydno in 121.876 attempts. Dedicated to GemaYue and Frutos Secos.",
     trivia: "-"
