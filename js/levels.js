@@ -172,7 +172,7 @@ const levels = {
   penumbral: {
     name: "Penumbral",
     publisher: "cherryteam",
-    creator: "nxhtrise, ego11, Hexy",
+    creator: "nxhtrise(host), ego11, Hexy",
     verifier: "w3rty",
     id: "134942736",
     password: "Free Copy",
