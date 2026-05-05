@@ -1170,6 +1170,40 @@ const levels = {
     youtube: "H2TkHbEX__A",
     song: "Exit Music (for Nomad) by owenidontknow (ID 1366847), Exit Music (For A Film) by Radiohead (NONG)",
     description: "now we are one in everlasting peace.",
-    trivia: "Rated after 382 days."
+    trivia: "Rated after 382 days"
+  },
+  thesaltfactory: {
+    name: "The Salt Factory",
+    publisher: "NiCkNaMe09 and more",
+    creator: "Eiriley, Inex, [UFA] Nickname09(publisher), lintery, Yakov47, Pes11, E9_KH, Relix, Acvan, EziK, Soywues, Wonsay, Sleepin",
+    verifier: "NiCkNaMe09",
+    id: "113045735",
+    password: "Free Copy",
+    length: "1m 36s",
+    object: "76,850",
+    version: "2.207",
+    difficulty: "Extreme Demon",
+    rating: "Featured",
+    youtube: "lQ7M-Sgov24",
+    song: "The Salt Factory by c2961 (ID 1382167), Can o' Salt by Danny Baranowsky (NONG)",
+    description: "-",
+    trivia: "-"
+  },
+  throughthegates: {
+    name: "Through The Gates",
+    publisher: "TeamTheDashers",
+    creator: "Maestro Illuminati(host), alex, Kentakiman, Azuri, kawoq, tan1c, kentaki-chan, Exen",
+    verifier: "Zoink",
+    id: "49072489",
+    password: "Free Copy",
+    length: "1m 38s",
+    object: "78,687",
+    version: "2.113",
+    difficulty: "Extreme Demon",
+    rating: "-",
+    youtube: "4yHA6jux5UI",
+    song: "Through the Gates (Abbv.) by Dimrain47",
+    description: "Verified by Exen. Special thanks to Royal, ZSolti49 and SeptaGon7. Hosted by Maestro Illuminati.",
+    trivia: "Rated after 829 days"
   },
 };
