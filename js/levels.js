@@ -1206,4 +1206,21 @@ const levels = {
     description: "Verified by Exen. Special thanks to Royal, ZSolti49 and SeptaGon7. Hosted by Maestro Illuminati.",
     trivia: "Rated after 829 days"
   },
+  kocmoctrick: {
+    name: "KOCMOC Trick",
+    publisher: "WooldLowtier and more",
+    creator: "Vernam(host), SPK, Synd, Vinty, Sauzzeth, Bli, Xatz, Konsi, Deadlox, Cuaer, Hantein, Kivvvi",
+    verifier: "Trick",
+    id: "91901757",
+    password: "Free Copy",
+    length: "1m 27s",
+    object: "197,860",
+    version: "2.11",
+    difficulty: "Harder",
+    rating: "Unrated",
+    youtube: "4yHA6jux5UI",
+    song: "SLEEPING HUMMING BIRD  LONDON? Albee Remix ? by sawukalu164 (ID 1163222)",
+    description: "-",
+    trivia: "old version of KOCMOC"
+  },
 };
