@@ -1138,4 +1138,21 @@ const levels = {
     description: "Here you die",
     trivia: "Lost Top 1(Slaughterhouse was hacked)"
   },
+  nomad: {
+    name: "NOMAD",
+    publisher: "ReeseVT and danielIsbadkarma",
+    creator: "ReeseVT(publisher), danielIsbadkarma",
+    verifier: "Laniakea",
+    id: "115077305",
+    password: "Free Copy",
+    length: "0m 51s",
+    object: "9,769",
+    version: "2.207",
+    difficulty: "Extreme Demon",
+    rating: "Featured",
+    youtube: "H2TkHbEX__A",
+    song: "Exit Music (for Nomad) by owenidontknow (ID 1366847), Exit Music (For A Film) by Radiohead (NONG)",
+    description: "now we are one in everlasting peace.",
+    trivia: "Rated after 382 days."
+  },
 };
