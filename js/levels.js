@@ -1243,7 +1243,7 @@ const levels = {
   battleoftheshades: {
     name: "Battle of the Shades",
     publisher: "KrNati",
-    creator: "GD Virus",
+    creator: "GD Virus, KrNati(publisher)",
     verifier: "KrNati",
     id: "79166683",
     password: "Free Copy",
@@ -1254,7 +1254,7 @@ const levels = {
     rating: "Unrated",
     youtube: "jsrqMqs1-Ao",
     song: "Mandragora by Miyolophone (ID 752857)",
-    description: "Silent - Cleared by TFIBB",
+    description: "Verified after 7 years. Dedicated to ViperVenom95, de_youngs, and MEALY clan. Originally by GD Virus",
     trivia: "Old impossible level"
   },
 };
