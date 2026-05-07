@@ -376,7 +376,7 @@ const levels = {
   spectre: {
     name: "Spectre",
     publisher: "xander556 and more",
-    creator: "xander556, Atomic, dilw0nk, Kllnex, TruDee, Artaire, PokeChatt, Kake, Gizbro, Striked, TheShoot, BrianTheBurger, GD Iris, Skrypto, zDeadlox, Lightcell, Cersia, Geogamer12, Polli, LightningSL, nwolc, nyab, ZeroSR, CuLuC, Osiris GD, YakobNugget, HelpegasuS, EndLevel, ARtu, Zeronium, Moosh, Mercury, Icedcave, Dawnf4ll, Accelec, ZephiroX, Darwin, GrenadeofTacos, lillie",
+    creator: "xander556, Atomic, dilw0nk, Kllnex, TruDee, Artaire, PokeChatt, Kake, Gizbro, Striked, TheShoot, BrianTheBurger, GD Iris, Skrypto, zDeadlox, Lightcell, Cersia, Geogamer12, Polli, LightningSL, nwolc, nyab, ZeroSR, CuLuC, Osiris GD, YakobNugget, HelpegasuS, EndLevel, ARtu, Zeronium, Moosh, Mercury, IcEDCave, Dawnf4ll, Accelec, ZephiroX, Darwin, GrenadeofTacos, lillie",
     verifier: "PersonHuman42",
     id: "110815379",
     password: "Free Copy",
