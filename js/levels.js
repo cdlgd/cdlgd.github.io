@@ -1141,7 +1141,7 @@ const levels = {
   firework: {
     name: "Firework",
     publisher: "Trick and more",
-    creator: "cherryteam(Vernam(host), lillium, 00Zero, Konsi, Realvet, Desumari, Itami, Lekvid, Buragoz, Crouley, Orte, Hantein)",
+    creator: "cherryteam (Vernam(host), lillium, 00Zero, Konsi, Realvet, Desumari, Itami, Lekvid, Buragoz, Crouley, Orte, Hantein)",
     verifier: "Trick",
     id: "75206202",
     password: "234000",
