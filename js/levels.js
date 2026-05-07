@@ -1175,7 +1175,7 @@ const levels = {
   thesaltfactory: {
     name: "The Salt Factory",
     publisher: "NiCkNaMe09 and more",
-    creator: "Eiriley, Inex, [UFA] Nickname09(publisher), lintery, Yakov47, Pes11, E9_KH, Relix, Acvan, EziK, Soywues, Wonsay, Sleepin",
+    creator: "Eiriley, Inex, NiCkNaMe09(publisher), lintery, Yakov47, Pes11, E9_KH, Relix, Acvan, EziK, Soywues, Wonsay, Sleepin",
     verifier: "NiCkNaMe09",
     id: "113045735",
     password: "Free Copy",
