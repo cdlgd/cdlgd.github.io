@@ -898,7 +898,7 @@ const levels = {
     youtube: "TzeMJeIu6bY",
     song: "~NK~ \"Sweet Dreams\" FULL by nebunyx (ID 1400936), Killbot (Sped Up by DjFrenkReturn) by Devin Martin (NONG)",
     description: "...You, and your insanity. Which will be the one to make it out alive?... (verified by spcreat)",
-    trivia: "Old impossible level"
+    trivia: "Old impossible level, Color is matched to player's color"
   },
   wockycircles: {
     name: "wocky circles",
