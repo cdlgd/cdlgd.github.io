@@ -883,6 +883,23 @@ const levels = {
     description: "Will you pull the correct strings and become the Master of Puppets? Made by me and 90+ creators. Verified by scotchtape.",
     trivia: "XXXL megacollab level"
   },
+  maniacalchains: {
+    name: "Maniacal Chains",
+    publisher: "LordDivinity",
+    creator: "LordDivinity",
+    verifier: "spcreat",
+    id: "48991380",
+    password: "Free Copy",
+    length: "1m 55s",
+    object: "94,920",
+    version: "2.11",
+    difficulty: "Insane",
+    rating: "Unrated",
+    youtube: "TzeMJeIu6bY",
+    song: "~NK~ \"Sweet Dreams\" FULL by nebunyx (ID 1400936), Killbot (Sped Up by DjFrenkReturn) by Devin Martin (NONG)",
+    description: "...You, and your insanity. Which will be the one to make it out alive?... (verified by spcreat)",
+    trivia: "Old impossible level"
+  },
   wockycircles: {
     name: "wocky circles",
     publisher: "kywy",
@@ -1035,6 +1052,23 @@ const levels = {
     song: "From Air by Lapse (ID 971534)",
     description: "Prepare for COLD",
     trivia: "cbf blocker deleted?"
+  },
+  ace: {
+    name: "ace",
+    publisher: "TheBigCheese69 and more",
+    creator: "TheBigCheese69(publisher), TenshoSDK, Aidsen",
+    verifier: "Aidsen",
+    id: "138215607",
+    password: "Free Copy",
+    length: "1m 9s",
+    object: "35,661",
+    version: "2.208",
+    difficulty: "Insane",
+    rating: "Unrated",
+    youtube: "7uYghOdos8I",
+    song: "Demondice - Youre an ace kid (Terra Bootleg) by Ohmterra (ID 1563434), You're an Ace, Kid by Demondice (NONG)",
+    description: "The road to freedom can't be seen by downcast eyes. || Top 25, verified by Aidsen. || Deco by TenshoSDK || NONG: Demondice - You're an Ace, Kid.",
+    trivia: "-"
   },
   trueinnards: {
     name: "True Innards",
