@@ -369,7 +369,7 @@ const levels = {
     difficulty: "Insane",
     rating: "Unrated",
     youtube: "ROuXHSKEhHA",
-    song: "larrynachos - We Are All Fucked (ID 890355)",
+    song: "We Are All Fucked by larrynachos (ID 890355)",
     description: "\"Beware the path this monster takes\" - Ozlip // All assets used with permission // Inspired by Kenos, verified by Zoink.",
     trivia: "-"
   },
