@@ -254,6 +254,23 @@ const levels = {
     description: "verified by Taiago // playtested by guillexprex52, kywy, fusion425, swiborg, & others // ty to Xanify, Nemo, Grid, Triplash, Blayne, and more!",
     trivia: "-"
   },
+  killstealer: {
+    name: "KILLSTEALER",
+    publisher: "Rynoxious and more",
+    creator: "Rynoxious(host, publisher), and more",
+    verifier: "kloone",
+    id: "138781722",
+    password: "Free Copy",
+    length: "4m 3s",
+    object: "372,346",
+    version: "2.208",
+    difficulty: "Extreme Demon",
+    rating: "Featured",
+    youtube: "uhH4oqWrsfo",
+    song: "-Killstealer- by Waterflame (ID 433359)",
+    description: "[2020 - 2026] A reimagining of Kill Stealer by Dzeser. Hosted by Rynoxious and Asterion - Verified by kloone.",
+    trivia: "-"
+  },
   subsumingvortex: {
     name: "Subsuming Vortex",
     publisher: "Cursed and more",
