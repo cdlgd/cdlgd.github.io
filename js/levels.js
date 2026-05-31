@@ -257,7 +257,7 @@ const levels = {
   killstealer: {
     name: "KILLSTEALER",
     publisher: "Rynoxious and more",
-    creator: "Rynoxious(host, publisher), and more",
+    creator: "Rynoxious(host, publisher), Asterion(host), and more",
     verifier: "kloone",
     id: "138781722",
     password: "Free Copy",
